@@ -1,0 +1,92 @@
+C:\Users\brown\source\repos\InvestoTool\bin\Debug\InvestoTool.exe.config
+C:\Users\brown\source\repos\InvestoTool\bin\Debug\InvestoTool.exe
+C:\Users\brown\source\repos\InvestoTool\bin\Debug\InvestoTool.pdb
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\InvestoTool.csprojAssemblyReference.cache
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\App.g.cs
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\InvestoTool_MarkupCompile.cache
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\InvestoTool_MarkupCompile.lref
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\InvestoTool.g.resources
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\InvestoTool.Properties.Resources.resources
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\InvestoTool.csproj.GenerateResource.cache
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\InvestoTool.csproj.CoreCompileInputs.cache
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\InvestoTool.exe
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\InvestoTool.pdb
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\MainMenu.g.cs
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\MainMenu.baml
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\Window1.g.cs
+C:\Users\brown\source\repos\InvestoTool\obj\Debug\Window1.baml
+C:\Users\Jack Lee\Desktop\working\InvestoTool\bin\Debug\InvestoTool.exe.config
+C:\Users\Jack Lee\Desktop\working\InvestoTool\bin\Debug\InvestoTool.exe
+C:\Users\Jack Lee\Desktop\working\InvestoTool\bin\Debug\InvestoTool.pdb
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\MainMenu.g.cs
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\Window1.g.cs
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\App.g.cs
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\InvestoTool_MarkupCompile.cache
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\InvestoTool_MarkupCompile.lref
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\MainMenu.baml
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\Window1.baml
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\InvestoTool.g.resources
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\InvestoTool.Properties.Resources.resources
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\InvestoTool.csproj.GenerateResource.Cache
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\InvestoTool.csproj.CoreCompileInputs.cache
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\InvestoTool.exe
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\InvestoTool.pdb
+C:\Users\Jack Lee\Desktop\working\InvestoTool\obj\Debug\InvestoTool.csprojResolveAssemblyReference.cache
+C:\Users\Jack Lee\Desktop\working\InvestoTool\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jack Lee\Desktop\working\InvestoTool\bin\Debug\System.Data.SQLite.xml
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\bin\Debug\InvestoTool.exe.config
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\bin\Debug\InvestoTool.exe
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\bin\Debug\InvestoTool.pdb
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\bin\Debug\System.Data.SQLite.xml
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\InvestoTool.csprojAssemblyReference.cache
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\MainMenu.g.cs
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\Window1.g.cs
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\App.g.cs
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\InvestoTool_MarkupCompile.cache
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\InvestoTool_MarkupCompile.lref
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\MainMenu.baml
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\Window1.baml
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\InvestoTool.g.resources
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\InvestoTool.Properties.Resources.resources
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\InvestoTool.csproj.GenerateResource.cache
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\InvestoTool.csproj.CoreCompileInputs.cache
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\InvestoTool.csproj.CopyComplete
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\InvestoTool.exe
+C:\Users\Corina\source\repos\InvestoTool (6)\InvestoTool\obj\Debug\InvestoTool.pdb
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\bin\Debug\InvestoTool.exe.config
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\bin\Debug\InvestoTool.exe
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\bin\Debug\InvestoTool.pdb
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\bin\Debug\System.Data.SQLite.xml
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.csprojAssemblyReference.cache
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\MainMenu.g.cs
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\Window1.g.cs
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\App.g.cs
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool_MarkupCompile.cache
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool_MarkupCompile.lref
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\MainMenu.baml
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\Window1.baml
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.g.resources
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.Properties.Resources.resources
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.csproj.GenerateResource.cache
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.csproj.CoreCompileInputs.cache
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.csproj.CopyComplete
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.exe
+C:\Users\Corina\source\repos\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.pdb
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\bin\Debug\InvestoTool.exe.config
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\bin\Debug\InvestoTool.exe
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\bin\Debug\InvestoTool.pdb
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.csprojResolveAssemblyReference.cache
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\MainMenu.g.cs
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\Window1.g.cs
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\App.g.cs
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool_MarkupCompile.cache
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool_MarkupCompile.lref
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\MainMenu.baml
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\Window1.baml
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.g.resources
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.Properties.Resources.resources
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.csproj.GenerateResource.Cache
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.csproj.CoreCompileInputs.cache
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.exe
+C:\Users\Jack Lee\Desktop\InvestoTool_Final\InvestoTool\obj\Debug\InvestoTool.pdb
